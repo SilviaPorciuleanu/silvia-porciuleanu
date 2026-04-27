@@ -39,6 +39,10 @@
       <a href="{{ site.github_url }}">GitHub</a>
     {% endif %}
 
+    {% if site.bluesky %}
+      <a href="{{ site.bluesky | relative_url }}">Bluesky</a>
+    {% endif %}
+
     {% if site.linkedin %}
       {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
       <a href="{{ site.linkedin }}">LinkedIn</a>
