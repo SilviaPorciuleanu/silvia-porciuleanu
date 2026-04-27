@@ -91,7 +91,7 @@ Yana Bochkareva, \textbf{Silvia Porciuleanu}, Filip Kostelka
 
 - **University of Lucerne**, Switzerland  
   *Political Behaviour and Parties in Central and Eastern Europe (Masters students)* (Masters students, block seminar), October - November 2025 
-  [Syllabus](Syllabus.pdf)
+  [Syllabus](Syllabus_Political_behaviour_and_parties_in_CEE.pdf)
 
 - **European University Institute**, Italy  
   *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024  
