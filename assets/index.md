@@ -2,7 +2,7 @@
 
 Hi! I am a PhD candidate in political science at the European University Institute [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I was a visiting PhD at the [Central European University](https://dsps.ceu.edu/). 
 
-My research focuses on political behaviour and party politics. I am interested in how different types of foreign exposure, from globalisation and European integration to living abroad or in international settings, transforms political attitudes, party competition and perceptions of identity and status. I also study the evolution of meanings and narratives in political elite communications, particularly about other countries and supranational identity. 
+My research focuses on political behaviour and party politics. I am interested in how domestic political attitudes are influenced by what's happening abroad. I also study how people and political elites construct narratives about other countries and perceive their transnational identity. 
 
 Methodologically, I work with multilingual computational text analysis (machine learning, LLMs) and survey experiments. I also have a geographic interest in less-studied countries of Central and Eastern Europe. 
 
