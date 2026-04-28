@@ -1,0 +1,94 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ======================
+   General styling
+====================== */
+
+h1 { color: #2c3e50; }  /* dark blue-gray */
+h2 { color: #333333; }  /* soft black */
+h3 { color: #555555; }  
+h4 { color: #777777; }
+
+a {
+  color:#2C3E50 ;
+}
+
+a:hover {
+  color: #157878;
+}
+
+header img {
+  width: 150px;       /* set a fixed size */
+  height: 150px;      /* same as width */
+  border-radius: 50%; /* makes it a circle */
+  object-fit: cover;  /* prevents distortion */
+  display: block;
+  margin: 0 auto 1.2rem auto;
+}
+
+/* ======================
+   Papers: layout & rhythm
+====================== */
+
+section ul {
+  margin-top: 0.6rem;
+}
+
+section ul li {
+  margin-bottom: 1.6rem;
+}
+
+/* ======================
+   Abstract toggle (anchor-based)
+====================== */
+
+.paper-links {
+  display: inline;
+  margin-left: 0.6rem;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+.paper-links a {
+  color: #666;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(102,102,102,0.35);
+}
+
+.paper-links a:hover {
+  color: #900C3F;
+  border-bottom-color: rgba(144,12,63,0.5);
+}
+
+/* abstract скрыт по умолчанию */
+.paper-abstract {
+  display: none;
+  margin-top: 0.6rem;
+  margin-left: 1.5rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* abstract показывается по клику */
+.paper-abstract:target {
+  display: block;
+}
+
+.abstract-close {
+  margin-top: 0.4rem;
+}
+
+.abstract-close a {
+  font-size: 0.9em;
+  font-style: italic;
+  color: #888;
+  text-decoration: none;
+}
+
+.abstract-close a:hover {
+  color: #900C3F;
+  text-decoration: underline;
+}
