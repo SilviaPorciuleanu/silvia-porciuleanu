@@ -85,9 +85,11 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
 ## Teaching
 
 -  *Political Behaviour and Parties in Central and Eastern Europe (Masters students)* (Masters students, block seminar), October - November 2025
+  
   **University of Lucerne**, Switzerland 
   [Syllabus](Syllabus_Political_behaviour_and_parties_in_CEE.pdf)
 
 - *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024
+  
   **European University Institute**, Italy 
   [Course materials]()
