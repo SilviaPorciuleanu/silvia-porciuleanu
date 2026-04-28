@@ -58,8 +58,10 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
       Do references to foreign countries legitimise policies and candidates? This paper investigates the impact of foreign cues on shaping individual political behaviour. Building on theories of identity and status, we hypothesise that foreign cues legitimise policies and candidates, and that cues referencing high-status countries are more influential in generating popular support than cues referencing low-status countries or generic cues. To test this theory, we conduct two vignette survey experiments with 8 874 respondents in six European countries (the Czech Republic, France, Germany, Poland, Romania, and the United Kingdom). We assess respondents' support for two policy proposals and two parliamentary candidates when presented with cues referencing the East and the West in Europe or foreign countries without geographical indication. We find that generic cues have no effect, but concrete ones do. In line with our expectations, cues referencing Western countries are more effective and have a more positive effect on support for policies and candidates, while cues referencing Eastern countries produce similar or even negative effects. Furthermore, individuals with higher levels of foreign exposure are more responsive to cues referencing Western European countries. Our findings contribute to the understanding of how foreign states can influence political behaviour beyond their borders and how the status of East and West is perceived in Europe.
     </em>
 
-    <div class="abstract-close">
+     <div class="abstract-close">
       <a href="#">Close</a>
+    </div>
+  </div>
       
 <strong>Porciuleanu, Silvia</strong>, Yana Bochkareva, Filip Kostelka
   <span class="paper-links">
