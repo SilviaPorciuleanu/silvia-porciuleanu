@@ -88,6 +88,6 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
   **University of Lucerne**, Switzerland 
   [Syllabus](Syllabus_Political_behaviour_and_parties_in_CEE.pdf)
 
--   *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024
+- *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024
   **European University Institute**, Italy 
   [Course materials]()
