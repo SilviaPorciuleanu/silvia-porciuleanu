@@ -21,13 +21,14 @@ a:hover {
 }
 
 header img {
-  width: 200px;       
-  height: 200px;      
+  width: 260px;       
+  height: 260px;      
   border-radius: 50%; 
   object-fit: cover;  
   display: block;
   margin: 0 auto 1.2rem auto;
 }
+
 
 /* ======================
    Papers: layout & rhythm
@@ -45,6 +46,16 @@ section ul li {
    Abstract toggle (anchor-based)
 ====================== */
 
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.header-text {
+  max-width: 650px;  /* instead of 800–900 */
+}
+
 .paper-links {
   display: inline;
   margin-left: 0.6rem;
@@ -53,22 +64,22 @@ section ul li {
 }
 
 .paper-links a {
-  color: #666;
+  color: #555;
   text-decoration: none;
-  border-bottom: 1px solid rgba(102,102,102,0.35);
+  border-bottom: 1px solid rgba(85,85,85,0.35);
 }
 
 .paper-links a:hover {
-  color: #900C3F;
-  border-bottom-color: rgba(144,12,63,0.5);
+  color: #157878;  /* teal accent */
+  border-bottom-color: rgba(21,120,120,0.5);
 }
 
-/* abstract  */
+/* abstract */
 .paper-abstract {
   display: none;
   margin-top: 0.6rem;
   margin-left: 1.5rem;
-  color: #555;
+  color: #444;
   line-height: 1.6;
 }
 
@@ -84,11 +95,11 @@ section ul li {
 .abstract-close a {
   font-size: 0.9em;
   font-style: italic;
-  color: #888;
+  color: #777;
   text-decoration: none;
 }
 
 .abstract-close a:hover {
-  color: #900C3F;
+  color: #157878;   /* same hover color */
   text-decoration: underline;
 }
