@@ -36,7 +36,7 @@
 
     {% if site.github_url %}
       {% if site.cv %} · {% endif %}
-      <a href="{{ site.github_url }}">GitHub</a>
+      <a href="{{ site.github_url | relative_url }}">GitHub</a>
     {% endif %}
 
     {% if site.bluesky %}
