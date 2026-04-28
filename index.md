@@ -16,28 +16,22 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
 
 ## Working Papers
 
-<span style="color: #6a6a6a; font-weight: 700;"> Us or “The Other”: Narratives of “The West” in Central and Eastern European Party Rhetoric. </span>
-
- <strong>Porciuleanu, Silvia</strong>
- 
+<span style="color: #6a6a6a; font-weight: 700;"> Us or “The Other”: Narratives of “The West” in Central and Eastern European Party Rhetoric. </span> 
   <span class="paper-links">
     <a href="#abs-west-1">[Abstract]</a>
   </span>
-
   <div id="abs-west-1" class="paper-abstract">
     <em>
       In many regions around the world, "the West" represents "the other" and is the source of different and opposed political narratives. This paper argues that the recent processes of westernisation and cultural backlash may change the meanings of "the West". I develop this argument by comparing, over time, the narratives about "the West" used in party manifestos in Central and Eastern Europe, a region historically and geopolitically situated between East and West. Using inductive categorisation and computational text analysis on over 17 thousand sentences that contain references to "the West" or Western countries in 291 party manifestos from 10 Central and Eastern European countries, I identified four narratives: "the West" as an ideal, a threat, a shared community, and an unequal partner. I show that these narratives represent both positive and negative constructions of "the other" and "self", and that the process of integration in the EU and NATO reconfigured "the West" from an external “other” to “self”. Additionally, the salience and the negative narratives about "the West" tend to come from conservative and traditional discourse of far-right parties. These findings shed light on the evolution of understanding of "the other" in the current international developments.
     </em>
-
     <div class="abstract-close">
       <a href="#">Close</a>
     </div>
   </div>
+
+  <strong>Porciuleanu, Silvia</strong>
   
- <span style="color: #6a6a6a; font-weight: 700;">Foreign appeals: Symbolic uses of “the West” in Parliamentary Speeches. </span>
- 
- <strong>Porciuleanu, Silvia</strong> 
- 
+ <span style="color: #6a6a6a; font-weight: 700;">Foreign appeals: Symbolic uses of “the West” in Parliamentary Speeches. </span> 
   <span class="paper-links">
     <a href="#abs-west-2">[Abstract]</a>
   </span>
@@ -51,8 +45,14 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
       <a href="#">Close</a>
     </div>
   </div>
+  
+ <strong>Porciuleanu, Silvia</strong>
 
  <span style="color: #6a6a6a; font-weight: 700;"> The power of "the West": Experimental Evidence from Political Rhetoric in Europe. </span>
+ <span class="paper-links">
+    <a href="#abs-west-3">[Abstract]</a>
+  </span>
+  
  <div id="abs-west-3" class="paper-abstract">
     <em>
       Do references to foreign countries legitimise policies and candidates? This paper investigates the impact of foreign cues on shaping individual political behaviour. Building on theories of identity and status, we hypothesise that foreign cues legitimise policies and candidates, and that cues referencing high-status countries are more influential in generating popular support than cues referencing low-status countries or generic cues. To test this theory, we conduct two vignette survey experiments with 8 874 respondents in six European countries (the Czech Republic, France, Germany, Poland, Romania, and the United Kingdom). We assess respondents' support for two policy proposals and two parliamentary candidates when presented with cues referencing the East and the West in Europe or foreign countries without geographical indication. We find that generic cues have no effect, but concrete ones do. In line with our expectations, cues referencing Western countries are more effective and have a more positive effect on support for policies and candidates, while cues referencing Eastern countries produce similar or even negative effects. Furthermore, individuals with higher levels of foreign exposure are more responsive to cues referencing Western European countries. Our findings contribute to the understanding of how foreign states can influence political behaviour beyond their borders and how the status of East and West is perceived in Europe.
@@ -60,6 +60,7 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
 
     <div class="abstract-close">
       <a href="#">Close</a>
+      
 <strong>Porciuleanu, Silvia</strong>, Yana Bochkareva, Filip Kostelka
   <span class="paper-links">
     <a href="#abs-west-3">[Abstract]</a>
@@ -68,8 +69,6 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
   </div>
 
 <span style="color: #6a6a6a; font-weight: 700;"> When is it OK to ban elections? A cross-country perspective on the demand-side of democratic resilience </span>
-
-Yana Bochkareva, \textbf{Silvia Porciuleanu}, Filip Kostelka
   <span class="paper-links">
     <a href="#paper-democracy">[Abstract]</a>
   </span>
@@ -83,6 +82,8 @@ Yana Bochkareva, \textbf{Silvia Porciuleanu}, Filip Kostelka
       <a href="#">Close</a>
     </div>
   </div>
+  
+  Yana Bochkareva, \textbf{Silvia Porciuleanu}, Filip Kostelka
 
 
 ## Teaching
