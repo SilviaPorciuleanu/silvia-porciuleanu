@@ -39,7 +39,6 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
     <em>
       "The West" is a salient geographical and geopolitical concept, but also a source of various positive and negative narratives. While its role in international relations has been explored, less attention has been paid to how "the West" is used in domestic political discourse. I argue that, beyond expressing substantive policy positions involving Western actors, politicians also mobilise "the West" symbolically as part of their rhetorical strategies. I conceptualise symbolic use as the integration of existing narratives into political communication to persuade audiences and legitimise policies and programmes. To identify symbolic and substantive uses, I train a multilingual supervised BERT-NLI model on parliamentary speeches from seven European legislatures (Austria, Croatia, the Czech Republic, Denmark, Germany, Hungary, and Spain). I expect symbolic uses to be more common among legislators socialised during the Cold War and in countries located at the peripheries of "the West". I also account for recent crises affecting the stability of "the West", namely the migration crisis and the Russian War in Ukraine. The findings show that references to "the West" are more frequently used symbolically in Central and Eastern Europe, and that legislators socialised in the communist bloc differ considerably from their Western counterparts in the way they use such references. By contrast, the migration crisis and the Russian War in Ukraine are associated with an increase in substantive uses of "the West". These results highlight the importance of distinguishing between symbolic and substantive dimensions of political communication and contribute to understanding how geopolitical concepts are mobilised in domestic politics.
     </em>
-
     <div class="abstract-close">
       <a href="#">Close</a>
     </div>
@@ -85,10 +84,10 @@ Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour
 
 ## Teaching
 
-- **University of Lucerne**, Switzerland  
-  *Political Behaviour and Parties in Central and Eastern Europe (Masters students)* (Masters students, block seminar), October - November 2025 
+-  *Political Behaviour and Parties in Central and Eastern Europe (Masters students)* (Masters students, block seminar), October - November 2025
+  **University of Lucerne**, Switzerland 
   [Syllabus](Syllabus_Political_behaviour_and_parties_in_CEE.pdf)
 
-- **European University Institute**, Italy  
-  *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024  
+-   *Lab: Introduction to R* (PhD level, TA for Introduction to Quantitative Methods), 2024
+  **European University Institute**, Italy 
   [Course materials]()
