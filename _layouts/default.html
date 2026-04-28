@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
@@ -40,12 +40,11 @@
     {% endif %}
 
     {% if site.bluesky %}
-    {% if site.cv %} · {% endif %}
       <a href="{{ site.bluesky | relative_url }}">Bluesky</a>
     {% endif %}
 
     {% if site.linkedin %}
-      {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
+      {% if site.cv or site.github_url or site.bluesky %} · {% endif %}
       <a href="{{ site.linkedin }}">LinkedIn</a>
     {% endif %}
   </p>
