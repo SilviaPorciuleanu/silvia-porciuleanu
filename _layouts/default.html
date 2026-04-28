@@ -36,16 +36,15 @@
 
     {% if site.github_url %}
       {% if site.cv %} · {% endif %}
-      <a href="{{ site.github_url | relative_url }}">GitHub</a>
+      <a href="{{ site.github_url }}">GitHub</a>
     {% endif %}
 
     {% if site.bluesky %}
-      {% if site.cv or site.github_url %} · {% endif %}
       <a href="{{ site.bluesky | relative_url }}">Bluesky</a>
     {% endif %}
 
     {% if site.linkedin %}
-      {% if site.cv or site.github_url or site.bluesky %} · {% endif %}
+      {% if site.cv or site.github_url or site.google_scholar %} · {% endif %}
       <a href="{{ site.linkedin }}">LinkedIn</a>
     {% endif %}
   </p>
