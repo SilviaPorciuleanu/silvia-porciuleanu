@@ -20,13 +20,33 @@ a:hover {
   color: #157878;
 }
 
+a:hover {
+  color: #157878;
+}
+
+/* make header a horizontal layout */
+header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+/* bigger round image on the left */
 header img {
-  width: 150px;       /* set a fixed size */
-  height: 150px;      /* same as width */
-  border-radius: 50%; /* makes it a circle */
-  object-fit: cover;  /* prevents distortion */
+  width: 180px;       
+  height: 180px;      
+  border-radius: 50%; 
+  object-fit: cover;  
   display: block;
-  margin: 0 auto 1.2rem auto;
+  margin: 0;          /* remove centering */
+  flex-shrink: 0;     /* keep size */
+}
+
+/* let text expand to the right */
+header h1,
+header p,
+.contact-block {
+  max-width: 800px;   /* wider text area */
 }
 
 /* ======================
