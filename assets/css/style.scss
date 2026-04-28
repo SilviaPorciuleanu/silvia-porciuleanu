@@ -24,13 +24,6 @@ a:hover {
   color: #157878;
 }
 
-/* make header a horizontal layout */
-header {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-}
-
 /* bigger round image on the left */
 header img {
   width: 180px;       
@@ -42,12 +35,7 @@ header img {
   flex-shrink: 0;     /* keep size */
 }
 
-/* let text expand to the right */
-header h1,
-header p,
-.contact-block {
-  max-width: 800px;   /* wider text area */
-}
+
 
 /* ======================
    Papers: layout & rhythm
