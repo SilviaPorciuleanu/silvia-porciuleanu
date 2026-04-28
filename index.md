@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I am a PhD candidate in political science at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I was a visiting PhD at the [Central European University](https://dsps.ceu.edu/). 
+Hi! I am a PhD candidate in political science at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I was also a visiting PhD at the [Central European University](https://dsps.ceu.edu/). 
 
 My research focuses on political behaviour and party politics. I am interested in how domestic political attitudes are influenced by what's happening abroad. I also study how people and political elites construct narratives about other countries and perceive their transnational identity. 
 
