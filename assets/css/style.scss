@@ -17,25 +17,17 @@ a {
 }
 
 a:hover {
-  color: #157878;
+  color: #333333;
 }
 
-a:hover {
-  color: #157878;
-}
-
-/* bigger round image on the left */
 header img {
-  width: 180px;       
-  height: 180px;      
-  border-radius: 50%; 
-  object-fit: cover;  
+  width: 150px;       /* set a fixed size */
+  height: 150px;      /* same as width */
+  border-radius: 50%; /* makes it a circle */
+  object-fit: cover;  /* prevents distortion */
   display: block;
-  margin: 0;          /* remove centering */
-  flex-shrink: 0;     /* keep size */
+  margin: 0 auto 1.2rem auto;
 }
-
-
 
 /* ======================
    Papers: layout & rhythm
@@ -71,7 +63,7 @@ section ul li {
   border-bottom-color: rgba(144,12,63,0.5);
 }
 
-/* abstract скрыт по умолчанию */
+/* abstract  */
 .paper-abstract {
   display: none;
   margin-top: 0.6rem;
@@ -80,7 +72,7 @@ section ul li {
   line-height: 1.6;
 }
 
-/* abstract показывается по клику */
+/* abstract */
 .paper-abstract:target {
   display: block;
 }
